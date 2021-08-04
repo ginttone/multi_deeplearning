@@ -1,9 +1,33 @@
 # multi_deeplearning
 
-데이터 전처리 
+1. 정보단계 (numpy)
 
-정보단계 (numpy)
+dropna: info(), describe()
 
-모델만들기 (model)
+fillna, replace: describe(), value_counts()
 
-서비스단계 (predict)
+컬럼 형태 분류 : 연속형, 분류형
+
+
+시각화 : 통계
+
+get_dummies(one hot encoding)
+
+standard scaler
+
+data split
+
+
+2. 학습단계(model)
+
+model learning(make)
+
+check score
+
+3. 서비스단계 (predict)
+
+model save and load
+
+data
+
+prediction
