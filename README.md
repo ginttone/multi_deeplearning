@@ -28,6 +28,8 @@ check score
 
 model save and load
 
-data
+pickle: dump, load
 
-prediction
+receive data
+
+apply prediction
