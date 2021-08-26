@@ -14,6 +14,9 @@
 `->`Embedding Cosin Metrix
 * check score
 
+![화면 캡처 2021-08-26 140038](https://user-images.githubusercontent.com/83646543/130903607-019718d5-602b-429c-9cbb-4735e8f53379.jpg)
+
+
 3. 서비스단계
 * pickle :dump, load
 * recive data
